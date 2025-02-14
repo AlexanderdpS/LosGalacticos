@@ -6,7 +6,7 @@ resta=numer1-numer2
 multiplicacion=numer1*numer2
 division=numer1/numer2
 
-print("La suma es: "+suma)
-print("La resta es: "+resta)
-print("La multiplicacion: "+multiplicacion)
-print("La division: "+division)
+print(f"La suma es: {suma}")
+print(f"La resta es:{resta}" )
+print(f"La multiplicacion: {multiplicacion}" )
+print(f"La division: {division}")
